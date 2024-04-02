@@ -1,0 +1,1 @@
+addsudo npm install --save-dev svelte-preprocess typescript -f
